@@ -28,6 +28,7 @@ If you'd like to compile and run from Xcode, what you need to do is:
 2. Build the project in **Xcode** (⌘+B)
 3. In the **Products** folder, right click on **HexCodeClock.saver** and click: *Open in Finder*.
 4. Here you'll find the **.saver** file, double click to install. If System Preferences prompts you to replace the existing screen saver, press **Replace**
+ -- but if you want to see the changes you have to trigger it for real. if you use the preview button (like myself in the Version 10.13) no changes are shown.
 5. That's it!
 
 
